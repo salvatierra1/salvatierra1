@@ -1,8 +1,8 @@
-#### Welcome, my name is Victor Salvatierra
+# Welcome, my name is Victor Salvatierra
 
 #
 
-#### Contact Me [Victor Salvatierra](linkedin.com/in/victor-salvatierra-910a88211)
+#### Contact Me [Victor Salvatierra](linkedin.com/in/victor-salvatierra-910a88211/).
 
 #
 ### Languages and Tools
