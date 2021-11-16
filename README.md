@@ -1,5 +1,11 @@
 Welcome, my name is Victor Salvatierra
 
+
+#### Contact Me [Leandro Toloza](https://www.linkedin.com/in/leandro-toloza/)
+#
+### Languages and Tools
+
+<div width= "300px" height="300px" background = "red"></div>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"></code>
 <code><img height="40" src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo.jpg"></code>
 <code><img height="40" src="https://dagope.com/public/uploads/2018/11/efcore.png"></code>
