@@ -3,7 +3,7 @@
 I am a proactive and self-taught person. I am in constant search of increasing knowledge, to help me grow both personally and professionally.
 #
 
-#### You can contact me
+### Contact me
 
  [Linkedin](https://www.linkedin.com/in/victor-salvatierra-910a88211/)
 
