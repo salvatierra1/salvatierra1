@@ -8,9 +8,9 @@ Welcome, my name is [Victor Salvatierra].
 ### Languages and Tools
 
 <div width= "300px" height="300px" background = "Green"></div>
-<code>HTML <style background = "Green"></code>
-<code><img height="40" src="https://dagope.com/public/uploads/2018/11/efcore.png"></code>
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU"></code>
-<code><img height="40" src="https://estradawebgroup.com/ImagesUpload/MSSQLServer.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code>HTML</code>
+<code>CSS</code>
+<code>JAVA</code>
+<code>SPRING BOOT</code>
+<code>MySQL</code>
+
