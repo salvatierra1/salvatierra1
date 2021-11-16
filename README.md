@@ -1,7 +1,8 @@
 Welcome, my name is Victor Salvatierra
 
+##
 
-#### Contact Me [Leandro Toloza](https://www.linkedin.com/in/leandro-toloza/)
+#### Contact Me [Victor Salvatierra](linkedin.com/in/victor-salvatierra-910a88211)
 #
 ### Languages and Tools
 
