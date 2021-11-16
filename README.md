@@ -8,7 +8,7 @@ Welcome, my name is [Victor Salvatierra].
 ### Languages and Tools
 
 <div width= "300px" height="300px" background = "Green"></div>
-<code>HTML</code>
+<code>HTML background = "Green"</code>
 <code><img height="40" src="https://dagope.com/public/uploads/2018/11/efcore.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU"></code>
 <code><img height="40" src="https://estradawebgroup.com/ImagesUpload/MSSQLServer.png"></code>
