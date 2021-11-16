@@ -5,7 +5,7 @@ I am a proactive and self-taught person. I am in constant search of increasing k
 
 #### You can contact me
 
- [Likedin](https://www.linkedin.com/in/victor-salvatierra-910a88211/)
+ [Linkedin](https://www.linkedin.com/in/victor-salvatierra-910a88211/)
 
 #
 ### Languages and Tools
