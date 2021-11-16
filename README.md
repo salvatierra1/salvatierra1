@@ -1,4 +1,4 @@
-Welcome, my name is [Victor Salvatierra].
+Welcome, my name is Victor Salvatierra
 
 #
 
