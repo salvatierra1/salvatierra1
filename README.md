@@ -1,13 +1,14 @@
-Welcome, my name is Victor Salvatierra
+Welcome, my name is [Victor Salvatierra].
 
-##
+#
 
 #### Contact Me [Victor Salvatierra](linkedin.com/in/victor-salvatierra-910a88211)
+
 #
 ### Languages and Tools
 
 <div width= "300px" height="300px" background = "red"></div>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"></code>
+<code><img height="40" src="https://www.flaticon.es/icono-gratis/html-5_5968267?term=html&page=1&position=30&page=1&position=30&related_id=5968267&origin=tag"></code>
 <code><img height="40" src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo.jpg"></code>
 <code><img height="40" src="https://dagope.com/public/uploads/2018/11/efcore.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyggq7x3hcHCt3c_AyHDpQ8945GJXZyXKuILe6hZ4XabBl7x4wPt0ZhEJ6lQsitwWgZU&usqp=CAU"></code>
