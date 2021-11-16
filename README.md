@@ -1,5 +1,6 @@
 # **Welcome, my name is Victor Salvatierra**
 
+I am a proactive and self-taught person. I am in constant search of increasing knowledge, to help me grow both personally and professionally.
 #
 
 #### Contact Me [Victor Salvatierra](linkedin.com/in/victor-salvatierra-910a88211/).
