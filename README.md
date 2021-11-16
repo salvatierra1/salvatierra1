@@ -7,7 +7,7 @@ Welcome, my name is [Victor Salvatierra].
 #
 ### Languages and Tools
 
-<div width= "300px" height="300px" background = "Green"></div>
+<div width= "300px" height="300px" background = "green"></div>
 <code>HTML</code>
 <code>CSS</code>
 <code>JAVA</code>
